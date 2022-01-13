@@ -4,7 +4,7 @@
 # Description
 This project has a random employee generator everytime you reload the page it generates new employees.
 # Deployed Application
-https://tonycrosby.net/18_employee_directory
+https://tonycrosby-tech.github.io/18_employee_directory/
 # Table of Contents
 * [Installations](#Installations)
 * [Screenshots](#Screenshots)
